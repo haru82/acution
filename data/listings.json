@@ -1,0 +1,18 @@
+[
+  {
+    "title": "서울특별시 송파구 가락동 OO아파트 101동 502호",
+    "address": "서울특별시 송파구 송파대로 123",
+    "price": 850000000,
+    "price_text": "850,000,000원",
+    "source": "법원 경매 / 온비드",
+    "link": "https://www.onbid.co.kr"
+  },
+  {
+    "title": "경기도 성남시 분당구 정자동 OO아파트 203동 1201호",
+    "address": "경기도 성남시 분당구 정자일로 45",
+    "price": 620000000,
+    "price_text": "620,000,000원",
+    "source": "법원 경매 / 온비드",
+    "link": "https://www.onbid.co.kr"
+  }
+]
